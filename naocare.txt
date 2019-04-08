@@ -2,3 +2,4 @@ staklo
 ram
 okvir
 boja
+miki milane
